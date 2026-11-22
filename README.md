@@ -6,7 +6,7 @@ and exploring how software can solve
 real world-problems.
 
 - 🌱 Currently learning Java, Python, and Software Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🤖 Exploring Artificial Intelligence 
 - 💡 Interested in Web Development, IoT, and Problem Solving
 - 🛠️ Building academic projects and experimenting with new ideas
 - 🎯 Goal: Become a skilled Software Engineer
