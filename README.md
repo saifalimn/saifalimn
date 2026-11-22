@@ -5,6 +5,12 @@ building projects,learning new technologies,
 and exploring how software can solve 
 real world-problems.
 
+- 🌱 Currently learning Java, Python, and Software Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 💡 Interested in Web Development, IoT, and Problem Solving
+- 🛠️ Building academic projects and experimenting with new ideas
+- 🎯 Goal: Become a skilled Software Engineer
+
 <!--
 **saifalimn/saifalimn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
